@@ -1,0 +1,3 @@
+[submodule "sub_app"]
+	path = sub_app
+	url = https://github.com/shinji128/sub_app
